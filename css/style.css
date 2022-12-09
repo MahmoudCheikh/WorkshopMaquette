@@ -1,0 +1,27 @@
+.titre, .titre2 {
+  font-family: "Playfair Display SC";
+  font-size: 24px;
+  font-weight: bold;
+  color: #333333;
+}
+
+.titre2 {
+  color: #bc694e;
+}
+
+.paragraphe {
+  font-family: "Lato";
+  color: #4e4e4e;
+  font-weight: bold;
+}
+
+.parent-element {
+  position: relative;
+}
+
+.button {
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+/*# sourceMappingURL=style.css.map */
